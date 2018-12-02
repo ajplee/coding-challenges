@@ -1,4 +1,4 @@
-# JETBRAINS CODING CHALLENGE
+# Jetbrains Coding Challenge
 
 ## Warmup
 
