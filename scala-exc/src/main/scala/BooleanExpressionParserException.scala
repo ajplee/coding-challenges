@@ -1,0 +1,1 @@
+final case class BooleanExpressionParserException(private val message: String = "") extends Exception(message)
